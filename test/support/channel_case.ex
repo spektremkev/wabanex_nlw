@@ -17,7 +17,6 @@ defmodule WabanexWeb.ChannelCase do
 
   use ExUnit.CaseTemplate
 
-
   using do
     quote do
       # Import conveniences for testing with channels
