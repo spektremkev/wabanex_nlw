@@ -1,4 +1,6 @@
 # Wabanex
+#pra recompilar o codigo basta recompile e para compilar a primeira vez iex -S mix
+#sintase para chamada da função"Wabanex.IMC.calculate("students.csv")"
 
 To start your Phoenix server:
 
